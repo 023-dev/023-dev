@@ -9,3 +9,5 @@
 </a>
 
 ![](./profile-3d-contrib/profile-night-green.json)
+
+<a href="https://wakatime.com/@ed767723-1e28-4049-89a1-3156ac2e8ff7"><img src="https://wakatime.com/badge/user/ed767723-1e28-4049-89a1-3156ac2e8ff7.svg" alt="Total time coded since Jul 10 2024" /></a>
