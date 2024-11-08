@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=023-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=023-dev&theme=dark&hide_border=true&fire=6C9B2C&background=0C1116&border=6C9B2C&ring=6C9B2C&currStreakLabel=6C9B2C&sideLabels=6C9B2C&excludeDaysLabel=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
