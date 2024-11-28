@@ -1,3 +1,6 @@
+<!--<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=&animation=&fontColor=000000&fontSize=70" />
+</div>-->
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=023-dev&layout=donut&show_icons=true&theme=react-dark&hide_border=true&bg_color=0C1116&icon_color=fff&text_color=fff&title_color=fff&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a> -->   
@@ -9,3 +12,5 @@
 </a>
 
 ![](./profile-3d-contrib/profile-night-green.json)
+
+    
