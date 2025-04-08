@@ -21,7 +21,7 @@ I value continuous learning in a fast-evolving tech landscape and enjoy sharing 
 
 <h3> DevOps </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,githubactions,postman,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,githubactions,docker,nginx)](https://skillicons.dev)
   
 <h3> Tools </h3>
 
