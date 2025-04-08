@@ -25,7 +25,7 @@ I value continuous learning in a fast-evolving tech landscape and enjoy sharing 
   - Docker
   - Nginx
 - Tools
-  - git
-  - postman
-  - grafana, prometheus
+  - Git
+  - Postman
+  - Grafana, Prometheus
 
