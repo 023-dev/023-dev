@@ -21,11 +21,10 @@ My key interests include backend architecture, scalable system design, database 
   - MySQL(InnoDB)
   - Redis
   - MongoDB
-- **DevOps / Infra**
+- **ETC**
   - AWS 
   - Docker
   - Nginx
-- **Tool / Monitorings**
   - Git / GitHub
   - Postman
   - Grafana / AlertManager / Prometheus
