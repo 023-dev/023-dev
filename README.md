@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,1,7,14,20,24,27)&height=160&fontAlignY=43&descAlignY=64&section=header&text=023&desc=Github%20🗂️&animation=fadeIn&fontSize=40&fontColor=FAFAFA&stroke=000000&strokeWidth=0.5"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,1,7,14,20,24,27)&height=160&fontAlignY=43&descAlignY=64&section=header&text=023&animation=fadeIn&fontSize=40&fontColor=FAFAFA&stroke=000000&strokeWidth=0.5"/>
 
 I’m a Software Engineer who thrives on focus and deep work, specializing in building efficient, scalable, and maintainable backend systems using Java and Spring.
 
