@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 **I’m a highly driven Software Engineer with a strong focus on building efficient, scalable backend systems using modern Java and Spring technologies.**
 
@@ -10,7 +10,7 @@ With a strong belief in writing testable, reliable code, I advocate for Test-Dri
 
 My key interests include backend architecture, scalable system design, database performance optimization, and building resilient services through clean and consistent architectural principles. I enjoy collaborating with other engineers to exchange ideas, challenge assumptions, and continuously improve both code and team processes.
 
-### Skills
+## Skills
 
 - **Backend**
   - Java 8+
