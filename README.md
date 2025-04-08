@@ -23,6 +23,6 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=023-dev&show_icons=true&theme=tokyonight&hide=stars)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oot309)](https://solved.ac/023/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=023)](https://solved.ac/023/)
 
 </div>
