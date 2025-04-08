@@ -1,6 +1,4 @@
-<h3> About Me </h3>
-
----
+## About Me 
 
 **I’m a Software Engineer who thrives on focus and hustle specializing in designing and building efficient, scalable backend systems.**
 
@@ -11,9 +9,7 @@ I’m a strong advocate of Test-Driven Development (TDD) and frequently use JUni
 I value continuous learning in a fast-evolving tech landscape and enjoy sharing insights and lessons through my technical blog. I'm always eager to explore new tools and methodologies that help me write better software and solve complex engineering challenges.
 
 
-<h3> Skills </h3>
-
----
+## Skills
 
 1. **Backend**
    - Java 8+
