@@ -25,5 +25,5 @@ I value continuous learning in a fast-evolving tech landscape and enjoy sharing 
   
 <h3> Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,grafana,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,grafana,prometheus)](https://skillicons.dev)
 
