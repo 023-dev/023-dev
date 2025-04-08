@@ -11,24 +11,21 @@ I value continuous learning in a fast-evolving tech landscape and enjoy sharing 
 
 ## Skills
 
-1. **Backend**
-   - Java 8+
-   - Spring Boot 3+, Spring Security, Spring JPA, ...
-   - Hibernate
-   - JUnit 5+, Mockito
-
-2. Database
-   - MySQL(InnoDB)
-   - Redis
-   - MongoDB
-
-3. DevOps
-   - AWS
-   - Docker
-   - Nginx
-
-4. Tools
-   - git
-   - postman
-   - grafana, prometheus
+- **Backend**
+  - Java 8+
+  - Spring Boot 3+, Spring Security, Spring JPA, ...
+  - Hibernate
+  - JUnit 5+, Mockito
+- Database
+  - MySQL(InnoDB)
+  - Redis
+  - MongoDB
+- DevOps
+  - AWS
+  - Docker
+  - Nginx
+- Tools
+  - git
+  - postman
+  - grafana, prometheus
 
