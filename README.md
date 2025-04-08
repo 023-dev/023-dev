@@ -1,5 +1,7 @@
 <h3> About Me </h3>
+
 ---
+
 **I’m a Software Engineer who thrives on focus and hustle specializing in designing and building efficient, scalable backend systems.**
 
 My core strength lies in designing robust architectures that meet both business goals and technical standards. I place strong emphasis on writing clean, well-structured code that follows Clean Code principles and SOLID design practices. I actively leverage modern design patterns to simplify complexity, enhance performance, and make systems easier to maintain.
