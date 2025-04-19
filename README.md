@@ -22,9 +22,12 @@ My key interests include backend architecture, scalable system design, database 
   - MongoDB
   - Redis
 - **DevOps**
-  - AWS EC2, S3, RDS, Route 53, ECR, ECS, ELB, 
+  - AWS EC2, S3, RDS, Route 53, ECR, ECS, ELB, Elastic Beanstalk, Cloudwatch, ...
   - Docker
+  - Nginx
+  - Github Actions
 - **Collaboration**
-  - Git
-  - Slack
+  - Git, Github
+  - Swagger
+  - Slack, Notion
   - Figma
