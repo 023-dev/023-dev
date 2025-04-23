@@ -26,6 +26,7 @@ My key interests include backend architecture, scalable system design, database 
   - Docker
   - Nginx
   - Github Actions
+  - Grafana, Prometheus
 - **Collaboration**
   - Git, Github
   - Swagger
