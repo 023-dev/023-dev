@@ -30,5 +30,5 @@ My key interests include backend architecture, scalable system design, database 
 - **Collaboration**
   - Git, Github
   - Swagger
-  - Slack, Notion
+  - Slack, Notion, Discord
   - Figma
