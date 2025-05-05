@@ -23,7 +23,7 @@ My key interests include backend architecture, scalable system design, database 
   - Redis
 - **DevOps**
   - AWS EC2, S3, RDS, Route 53, ECR, ECS, ELB, Elastic Beanstalk, Cloudwatch, ...
-  - Docker
+  - Docker, Docker Compose
   - Nginx
   - Github Actions
   - Grafana, Prometheus
