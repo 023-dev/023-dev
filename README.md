@@ -14,15 +14,17 @@ My key interests include backend architecture, scalable system design, database 
 
 - **Backend**
   - Java 8+
-  - Spring Boot 3+, Spring Security, Spring JPA, Spring MVC, ...
+  - Spring Boot 3+, Spring MVC, Spring Security, Spring Data JPA/Redis
   - Hibernate, QueryDSL
   - JUnit 5+, Mockito
+  - Gradle, Maven
+  - IntelliJ, Visual Studio Code
 - **Database**
   - MySQL(InnoDB), MariaDB
   - MongoDB
   - Redis
 - **DevOps**
-  - AWS EC2, S3, RDS, Route 53, ECR, ECS, ELB, Elastic Beanstalk, Cloudwatch, ...
+  - AWS Beanstalk, EC2, S3, RDS, Route 53, ECR, ECS, ELB, Cloud Watch
   - Docker, Docker Compose
   - Nginx, Fail2Ban
   - Github Actions
