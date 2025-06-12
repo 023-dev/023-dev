@@ -34,3 +34,6 @@ My key interests include backend architecture, scalable system design, database 
   - Swagger
   - Slack, Notion, Discord
   - Figma
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F023-dev&label=Hits&icon=github&color=%2346a106)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2F023-dev.github.io%2F&label=Blog&icon=github&color=%2346a106)
