@@ -18,7 +18,6 @@ My key interests include backend architecture, scalable system design, database 
   - Hibernate, QueryDSL
   - JUnit 5+, Mockito
   - Gradle, Maven
-  - IntelliJ, Visual Studio Code
 - **Database**
   - MySQL(InnoDB), MariaDB
   - MongoDB
