@@ -19,17 +19,15 @@ My key interests include backend architecture, scalable system design, database 
   - JUnit 5+, Mockito
   - Gradle, Maven
 - **Database**
-  - MySQL(InnoDB), MariaDB
+  - MySQL(InnoDB)
   - MongoDB
   - Redis
 - **DevOps**
   - AWS Beanstalk, EC2, S3, RDS, Route 53, ECR, ELB, Cloud Watch, WAF
   - Docker, Docker Compose, Docker Hub
-  - Nginx
   - Github Actions
-  - Grafana, Prometheus
+  - Nginx
 - **Collaboration**
   - Git, Github
   - Swagger
   - Slack, Notion, Discord
-  - Figma
