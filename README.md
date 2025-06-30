@@ -27,7 +27,3 @@ My key interests include backend architecture, scalable system design, database 
   - Docker, Docker Compose, Docker Hub
   - Github Actions
   - Nginx
-- **Collaboration**
-  - Git, Github
-  - Swagger
-  - Slack, Notion, Discord
