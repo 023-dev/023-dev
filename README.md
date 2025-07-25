@@ -19,7 +19,7 @@ My key interests include backend architecture, scalable system design, database 
   - JUnit 5+, Mockito
   - Gradle, Maven
 - **Database**
-  - MySQL(InnoDB)
+  - MySQL 8+(InnoDB)
   - MongoDB
   - Redis
 - **DevOps**
