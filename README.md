@@ -14,7 +14,7 @@ My key interests include backend architecture, scalable system design, database 
   - Java 8+
   - Spring Boot 3+, Spring MVC, Spring Security, Spring Data JPA/Redis
   - Hibernate, QueryDSL
-  - JUnit 5+, Mockito, Jacoco
+  - JUnit 5+, Mockito
   - Gradle, Maven
 - **Database**
   - MySQL 8+(InnoDB)
@@ -25,3 +25,4 @@ My key interests include backend architecture, scalable system design, database 
   - Docker, Docker Compose, Docker Hub
   - Github Actions
   - Nginx
+  - Flyway
