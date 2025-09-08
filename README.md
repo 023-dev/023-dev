@@ -21,8 +21,9 @@ My key interests include backend architecture, scalable system design, database 
   - MongoDB
   - Redis
 - **DevOps**
-  - AWS Beanstalk, EC2, S3, RDS, Route 53, ECR, ELB, CDK
+  - AWS Beanstalk, EC2, S3, RDS, Route 53, ECR, ELB
   - Docker, Docker Compose, Docker Hub
   - Github Actions
   - Nginx
   - Flyway
+  - Terraform, AWS CDK
