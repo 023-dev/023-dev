@@ -4,8 +4,6 @@
 
 My core strength lies in designing robust system architectures that align with both business goals and engineering best practices. I place a strong emphasis on clean code, modular design, and thoughtful abstraction always aiming to create maintainable and extensible systems.
 
-Recently, I’ve been exploring advanced architectural principles and patterns that support scalable and resilient backend systems. I'm particularly interested in **architecture**. I also enjoy studying **design patterns** such as factory, strategy, and builder, as well as **architectural styles** to improve system flexibility and clarity.
-
 My key interests include backend architecture, scalable system design, database performance optimization, and building resilient services through clean and consistent architectural principles. I also enjoy collaborating with fellow engineers to exchange ideas, challenge assumptions, and continuously refine both code quality and team workflows.
 
 ## Skill set
