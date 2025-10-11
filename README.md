@@ -24,4 +24,4 @@ My key interests include backend architecture, scalable system design, database 
   - Github Actions
   - Nginx
   - Flyway
-  - Terraform, AWS CDK
+  - Terraform
