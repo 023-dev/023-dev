@@ -10,18 +10,22 @@ My key interests include backend architecture, scalable system design, database 
 
 - **Backend**
   - Java 8+
-  - Spring Boot 3+, Spring MVC, Spring Security, Spring Data JPA/Redis
-  - Hibernate, QueryDSL
-  - JUnit 5+, Mockito
-  - Gradle, Maven
+  - Spring Boot 3+, Spring MVC, Spring Security, Spring Data JPA
+  - JPA, Querydsl
+  - JUnit 5+, Mockito, Jacoco
+  - Gradle
+  - IntelliJ, DataGrip
+  - Git
 - **Database**
-  - MySQL 8+(InnoDB)
+  - MySQL8+(InnoDB)
   - MongoDB
   - Redis
 - **DevOps**
-  - AWS(Beanstalk, EC2, S3, RDS, Route 53, ECR, ELB, CloudWatch, Lambda, SES, ...)
-  - Docker, Docker Compose, Docker Hub
-  - Github Actions
+  - AWS EC2, S3, RDS, ECR, CloudFront, Route 53, CodeDeploy, Beanstalk, ElastiCache, WAF, Lambda, …
   - Nginx
-  - Flyway
-  - Terraform
+  - Docker
+- **Collaboration**
+  - GitHub
+  - Discord, Slack
+  - Notion, Trello
+  - Figma
