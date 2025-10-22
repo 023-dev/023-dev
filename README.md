@@ -12,12 +12,12 @@ My key interests include backend architecture, scalable system design, database 
   - Java 8+
   - Spring Boot 3+, Spring MVC, Spring Security, Spring Data JPA
   - JPA, Querydsl
-  - JUnit 5+, Mockito, Jacoco
+  - JUnit 5, Mockito, Jacoco
   - Gradle
   - IntelliJ, DataGrip
   - Git
 - **Database**
-  - MySQL8+(InnoDB)
+  - MySQL(InnoDB)
   - MongoDB
   - Redis
 - **DevOps**
