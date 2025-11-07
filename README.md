@@ -17,7 +17,7 @@ My key interests include backend architecture, scalable system design, database 
   - IntelliJ, DataGrip
   - Git
 - **Database**
-  - MySQL(InnoDB)
+  - MySQL 8+(InnoDB)
   - MongoDB
   - Redis
 - **DevOps**
