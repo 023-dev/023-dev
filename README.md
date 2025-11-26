@@ -5,3 +5,25 @@
 My core strength lies in designing robust system architectures that align with both business goals and engineering best practices. I place a strong emphasis on clean code, modular design, and thoughtful abstraction always aiming to create maintainable and extensible systems.
 
 My key interests include backend architecture, scalable system design, database performance optimization, and building resilient services through clean and consistent architectural principles. I also enjoy collaborating with fellow engineers to exchange ideas, challenge assumptions, and continuously refine both code quality and team workflows.
+
+## Skill Sets
+- Backend
+  - Java 8+
+  - Spring Boot 3+, Spring MVC, Spring Data, ...
+  - JUnit 5+
+- DevOps
+  - AWS (EC2, S3, RDS, ECR, Lambda, SQS)
+  - MySQL 8+(InnoDB), Redis
+  - Nginx
+  - Docker
+  - Git Actions
+- Tool
+  - Git
+  - Notion, Figma, Trello
+  - Slack
+ 
+## Latest blog posts
+- [함께 자라기](https://023-dev.github.io/growing-together/)
+- [좋은 이름의 기준](https://023-dev.github.io/smart-convention/)
+- [ID를 만드는 방법들](https://023-dev.github.io/id-generator/)
+- [테스트 세미나를 보고..](https://023-dev.github.io/test-seminar/)
