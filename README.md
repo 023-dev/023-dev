@@ -23,7 +23,14 @@ My key interests include backend architecture, scalable system design, database 
   - Slack
  
 ## Latest blog posts
+- [이벤트 스토밍](https://023-dev.github.io/event-storming/)
 - [함께 자라기](https://023-dev.github.io/growing-together/)
 - [좋은 이름의 기준](https://023-dev.github.io/smart-convention/)
 - [ID를 만드는 방법들](https://023-dev.github.io/id-generator/)
 - [테스트 세미나를 보고..](https://023-dev.github.io/test-seminar/)
+
+## Latest studies
+- [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
+- [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh)
+- [Spring Kafka](https://github.com/023-dev/spring-kafka)
+- [IaC를 위한 AWS CDK](https://github.com/023-dev/iac-aws-cdk))
