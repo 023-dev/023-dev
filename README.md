@@ -33,4 +33,4 @@ My key interests include backend architecture, scalable system design, database 
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
 - [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh)
 - [Spring Kafka](https://github.com/023-dev/spring-kafka)
-- [IaC를 위한 AWS CDK](https://github.com/023-dev/iac-aws-cdk))
+- [AWS CDK for IaC](https://github.com/023-dev/iac-aws-cdk))
