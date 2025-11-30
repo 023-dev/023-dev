@@ -9,7 +9,7 @@ My key interests include backend architecture, scalable system design, database 
 ## Skill Sets
 - Backend
   - Java 8+
-  - Spring Boot 3+, Spring MVC, Spring Data, ...
+  - Spring Boot 3+, Spring MVC, Spring Data JPA, ...
   - JUnit 5+
 - DevOps
   - AWS (EC2, S3, RDS, ECR, Lambda, SQS)
