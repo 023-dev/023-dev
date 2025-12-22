@@ -17,10 +17,6 @@ My key interests include backend architecture, scalable system design, database 
   - Nginx
   - Docker
   - Git Actions
-- Tool
-  - Git
-  - Notion, Figma, Trello
-  - Slack
  
 ## Latest blog posts
 - [이벤트 스토밍](https://023-dev.github.io/event-storming/)
