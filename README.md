@@ -19,6 +19,7 @@ My key interests include backend architecture, scalable system design, database 
   - Git Actions
  
 ## Latest blog posts
+- [좋은 API 설계하기](https://023-dev.github.io/good-api/)
 - [이벤트 스토밍](https://023-dev.github.io/event-storming/)
 - [함께 자라기](https://023-dev.github.io/growing-together/)
 - [좋은 이름의 기준](https://023-dev.github.io/smart-convention/)
