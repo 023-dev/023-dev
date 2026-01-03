@@ -12,7 +12,7 @@ My key interests include backend architecture, scalable system design, database 
   - Spring Boot 3+, Spring MVC, Spring Data JPA, ...
   - JUnit 5+
 - DevOps
-  - AWS (EC2, S3, RDS, ECR, Lambda, SQS)
+  - AWS (EC2, RDS, ECR, S3, CDN, WAF, CloudWatch, Lambda, SNS, ...)
   - MySQL 8+(InnoDB), Redis
   - Nginx
   - Docker
