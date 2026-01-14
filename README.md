@@ -1,10 +1,7 @@
 ## About me
 
-**I’m a highly driven Software Engineer with a strong focus on building efficient, scalable backend systems using modern Java and Spring technologies.**
-
-My core strength lies in designing robust system architectures that align with both business goals and engineering best practices. I place a strong emphasis on clean code, modular design, and thoughtful abstraction always aiming to create maintainable and extensible systems.
-
-My key interests include backend architecture, scalable system design, database performance optimization, and building resilient services through clean and consistent architectural principles. I also enjoy collaborating with fellow engineers to exchange ideas, challenge assumptions, and continuously refine both code quality and team workflows.
+개발에서의 실용성이란 누군가가 직면한 문제를 해결하고 실질적인 가치를 만들어낼 때 비로소 실용적이라는 진정한 의미를 갖는다고 생각합니다.
+문제를 해결하는데 방식은 중요치 않다고 생각합니다. 본질은 문제의 근본적인 원인을 정확히 파악하고, 그 원인에 대한 해결방안을 제시하는 것이라고 생각합니다.
 
 ## Skill Sets
 - Backend
