@@ -10,7 +10,7 @@
   - JUnit 5+
 - DevOps
   - AWS (EC2, RDS, ECR, S3, CDN, WAF, CloudWatch, Lambda, SNS, ...)
-  - MySQL 8+(InnoDB), Redis
+  - MySQL, Redis
   - Nginx
   - Docker
   - Git Actions
