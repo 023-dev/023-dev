@@ -8,7 +8,7 @@ The specific approach used to solve a problem is not what matters most. What tru
 
 문제를 해결하는데 방식은 중요치 않다고 생각합니다. 본질은 문제의 근본적인 원인을 정확히 파악하고, 그 원인에 대한 해결방안을 제시하는 것이라고 생각합니다.
 
-## Skill Sets
+## Skill sets
 - Backend
   - Java 8+
   - Spring Boot 3+, Spring MVC, Spring Data JPA, ...
