@@ -26,7 +26,6 @@ The specific approach used to solve a problem is not what matters most. What tru
 - [함께 자라기](https://023-dev.github.io/growing-together/)
 - [좋은 이름의 기준](https://023-dev.github.io/smart-convention/)
 - [ID를 만드는 방법들](https://023-dev.github.io/id-generator/)
-- [테스트 세미나를 보고..](https://023-dev.github.io/test-seminar/)
 
 ## Latest studies
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
