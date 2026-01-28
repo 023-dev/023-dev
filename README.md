@@ -20,6 +20,12 @@ The specific approach used to solve a problem is not what matters most. What tru
   - Docker
   - Git Actions
  
+## Open source contributions
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+  - Remove compiler warnings for spring-security-config[#18419](https://github.com/spring-projects/spring-security/issues/18419)
+- [flyway/flyway](https://github.com/flyway/flyway)
+  - Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks[#4194](https://github.com/flyway/flyway/pull/4194)
+ 
 ## Latest blog posts
 - [좋은 API 설계하기](https://023-dev.github.io/good-api/)
 - [이벤트 스토밍](https://023-dev.github.io/event-storming/)
