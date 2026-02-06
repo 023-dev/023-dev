@@ -1,6 +1,6 @@
 ## About me
 
-I believe that practicality in software development only gains its true meaning when it effectively solves real problems and delivers tangible value.
+I believe that practicality in development only truly holds meaning when it solves problems faced by others and creates tangible value.
 
 The specific approach used to solve a problem is not what matters most. What truly matters is accurately identifying the root cause of the problem and proposing an appropriate solution that directly addresses it.
 
