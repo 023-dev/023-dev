@@ -10,15 +10,14 @@ The specific approach used to solve a problem is not what matters most. What tru
 
 ## Skill sets
 - Backend
-  - Java 8+
-  - Spring Boot 3+, Spring MVC, Spring Data JPA, ...
-  - JUnit 5+
+  - Java
+  - Spring Boot
 - DevOps
-  - AWS (EC2, RDS, ECR, S3, CDN, WAF, CloudWatch, Lambda, SNS, ...)
-  - MySQL 8+, Redis
+  - AWS
+  - MySQL
+  - Redis
   - Nginx
   - Docker
-  - Git Actions
  
 ## Open source contributions
 - [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
