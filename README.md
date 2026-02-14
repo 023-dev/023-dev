@@ -22,11 +22,10 @@ I believe that rather than merely adopting a practical approach, it is only when
   - Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
  
 ## Latest blog posts
-- [좋은 API 설계하기](https://023-dev.github.io/good-api/)
-- [이벤트 스토밍](https://023-dev.github.io/event-storming/)
-- [함께 자라기](https://023-dev.github.io/growing-together/)
-- [좋은 이름의 기준](https://023-dev.github.io/smart-convention/)
-- [ID를 만드는 방법들](https://023-dev.github.io/id-generator/)
+- [좋은 API 설계하기](https://023-dev.github.io/blog/good-api/)
+- [이벤트 스토밍](https://023-dev.github.io/blog/event-storming/)
+- [함께 자라기](https://023-dev.github.io/blog/growing-together/)
+- [좋은 이름의 기준](https://023-dev.github.io/blog/smart-convention/)
 
 ## Latest studies
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
