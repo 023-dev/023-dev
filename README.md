@@ -2,7 +2,7 @@
 
 I believe that rather than merely adopting a practical approach, it is only when we prioritise the essence of the problem, identify its root causes, and create tangible value that we truly embody the genuine meaning of practicality.
 
-실용적이란 방식보다 문제의 본질을 중시하며, 근본적인 원인을 파악해 실질적인 가치를 만들어낼 때 비로소 실용적이라는 진정한 의미 를 갖는다고 생각합니다.
+방식보다 문제의 본질을 중시하며, 근본적인 원인을 파악해 실질적인 가치를 만들어낼 때 비로소 실용적이라는 진정한 의미 를 갖는다고 생각합니다.
 
 ## Skill sets
 - Backend
