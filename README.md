@@ -17,7 +17,7 @@ I believe that rather than merely adopting a practical approach, it is only when
  
 ## Open source contributions
 - [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
-  - Remove compiler warnings for spring-security-config [#18419](https://github.com/spring-projects/spring-security/issues/18419)
+  - Fix compile warnings for spring-security-config [#18419](https://github.com/spring-projects/spring-security/pull/18596)
 - [flyway/flyway](https://github.com/flyway/flyway)
   - Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
  
