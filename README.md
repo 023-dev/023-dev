@@ -26,12 +26,6 @@ As a backend developer, I deeply focus on the core value of a product. I believe
 
 * Coursework: Operating System, Networks, Data Structures, Database System
 
-### Latest blog posts
-- [좋은 API 설계하기](https://023-dev.github.io/blog/good-api/)
-- [이벤트 스토밍](https://023-dev.github.io/blog/event-storming/)
-- [함께 자라기](https://023-dev.github.io/blog/growing-together/)
-- [좋은 이름의 기준](https://023-dev.github.io/blog/smart-convention/)
-
 ### Latest studies
 - [Spring AI](https://github.com/023-dev/spring-ai-study)
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
