@@ -4,11 +4,6 @@ I'm backend engineer and open source contributor on `spring-security`, `flyway`
 
 As a backend developer, I deeply focus on the core value of a product. I believe true practicality comes from prioritizing the essence of a problem over the mere method of solving it—identifying root causes to create tangible, real-world value. My goal is to build user-centric products by launching Minimum Viable Products and embracing agile methodologies. By thoroughly exploring and applying technological principles, I strive for both superior product quality and developer's continuous growth. I prioritize technology choices that ensure system stability and drive business impact, consistently delivering value to my users and team through ongoing improvement and efficiency. To me, the essence of engineering is uncovering the cause of a problem and designing the right solution. I primarily tackle these challenges using Java, Spring Boot, MySQL, AWS, Docker, Nginx, and Linux.
 
-### My Interests
-- Large/Burst traffic handling and distributed system architecture
-- Open Source Contribution
-- Documentation, visualization, communication
-
 ### Open source contributions
 **[spring-projects/spring-security](https://github.com/spring-projects/spring-security)**
 + Fix compile warnings for spring-security-config [#18419](https://github.com/spring-projects/spring-security/pull/18596)
