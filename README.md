@@ -1,8 +1,7 @@
 ### About me
 
-I'm backend engineer and open source contributor on `spring-security`, `flyway`
-
-As a backend developer, I deeply focus on the core value of a product. I believe true practicality comes from prioritizing the essence of a problem over the mere method of solving it—identifying root causes to create tangible, real-world value. My goal is to build user-centric products by launching Minimum Viable Products and embracing agile methodologies. By thoroughly exploring and applying technological principles, I strive for both superior product quality and developer's continuous growth. I prioritize technology choices that ensure system stability and drive business impact, consistently delivering value to my users and team through ongoing improvement and efficiency. To me, the essence of engineering is uncovering the cause of a problem and designing the right solution. I primarily tackle these challenges using Java, Spring Boot, MySQL, AWS, Docker, Nginx, and Linux.
+안녕하세요 👋
+백엔드 개발자 공희상입니다! 커피와 실없는 개발수다를 좋아합니다. 
 
 ### Open source contributions
 **spring-projects/spring-security - [repo](https://github.com/spring-projects/spring-security)**
