@@ -1,7 +1,8 @@
 ### About me
 
-안녕하세요 👋
-백엔드 개발자 공희상입니다! 커피와 실없는 개발수다를 좋아합니다. 
+안녕하세요 👋<br>
+백엔드 개발자 공희상입니다! <br>
+커피와 실없는 개발수다를 좋아합니다. 
 
 ### Open source contributions
 **spring-projects/spring-security - [repo](https://github.com/spring-projects/spring-security)**
