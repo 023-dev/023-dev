@@ -18,6 +18,7 @@
 * Coursework: Operating System, Networks, Data Structures, Database System
 
 ### Latest studies
+
 - [Spring AI](https://github.com/023-dev/spring-ai-study)
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
 - [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh-study)
