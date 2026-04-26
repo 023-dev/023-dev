@@ -1,5 +1,4 @@
 ### About me
-
 안녕하세요 👋<br>
 백엔드 개발자 공희상입니다! <br>
 커피와 실없는 개발수다를 좋아합니다. 
@@ -18,7 +17,6 @@
 * Coursework: Operating System, Networks, Data Structures, Database System
 
 ### Latest studies
-
 - [Spring AI](https://github.com/023-dev/spring-ai-study)
 - [Kotlin](https://github.com/023-dev/kotlin-racingcar-8)
 - [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh-study)
