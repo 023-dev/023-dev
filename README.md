@@ -4,10 +4,10 @@
 커피와 실없는 개발수다를 좋아합니다. 
 
 ### Open source contributions
-**spring-projects/spring-security - [repo](https://github.com/spring-projects/spring-security)**
+**[spring-projects/spring-security](https://github.com/spring-projects/spring-security)**
 + Fix compile warnings for spring-security-config [#18419](https://github.com/spring-projects/spring-security/pull/18596)
 
-**flyway/flyway - [repo](https://github.com/flyway/flyway)**
+**[flyway/flyway](https://github.com/flyway/flyway)**
 + Fix Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
 
 ### Education
