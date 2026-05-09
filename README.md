@@ -17,7 +17,7 @@
 * Coursework: Operating System, Networks, Data Structures, Database System
 
 ### Latest studies
-- [Harness Engineering with OMX]
+- [Harness Engineering with OMX](https://github.com/023-dev/oh-my-codex)
 - [Spring AI](https://github.com/023-dev/spring-ai-study)
 - [Kotlin with TDD](https://github.com/023-dev/kotlin-racingcar-8)
 - [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh-study)
