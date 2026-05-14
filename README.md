@@ -7,14 +7,20 @@
 **[spring-projects/spring-security](https://github.com/spring-projects/spring-security)**
 + Fix compile warnings for spring-security-config [#18419](https://github.com/spring-projects/spring-security/pull/18596)
 
-**[flyway/flyway](https://github.com/flyway/flyway)**
+##### **[flyway/flyway](https://github.com/flyway/flyway)**
 + Fix Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
+
+### Activities
+- JECT Makers 2025.09 - noww  
+- Opensource contributors 9th 2025.08 - 2025.09  
+- YAPP 28th 2026.05 — now  
+- BDD (Book Driven Developer) 5th 2026.05 — now
 
 ### Education
 ##### **B.S. in Computer Science**
 *University in South Korea*
 
-* Coursework: Operating System, Networks, Data Structures, Database System
+* Coursework: Operating System, Network, Database System, Data Structure
 
 ### Latest studies
 - [Harness Engineering Framework](https://github.com/023-dev/harness_framework_codex)
@@ -23,3 +29,6 @@
 - [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh-study)
 - [Spring Kafka](https://github.com/023-dev/spring-kafka-study)
 - [AWS CDK for IaC](https://github.com/023-dev/iac-aws-cdk)
+
+
+
