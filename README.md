@@ -11,7 +11,8 @@
 + Fix Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
 
 ### Activities
-- JECT Makers 2025.09 - noww  
+- JSCode 2024.11 - 2025.01
+- JECT Makers 2025.09 - now
 - Opensource contributors 9th 2025.08 - 2025.09  
 - YAPP 28th 2026.05 — now  
 - BDD (Book Driven Developer) 5th 2026.05 — now
