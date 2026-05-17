@@ -11,10 +11,9 @@
 + Fix Snowflake parser handles nested IF/FOR/CASE in BEGIN blocks [#4194](https://github.com/flyway/flyway/pull/4194)
 
 ### Education
-##### **B.S. in Computer Science**
-*University in South Korea*
+##### *B.S. in Computer Science, University in South Korea*
 
-* Coursework: Operating System, Network, Database System, Data Structure
+* *Coursework: Operating System, Network, Database System, Data Structure*
 
 ### Latest studies
 - [Harness Engineering Framework](https://github.com/023-dev/harness_framework_codex)
