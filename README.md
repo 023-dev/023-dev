@@ -3,15 +3,6 @@
 백엔드 개발자 공희상입니다! <br>
 커피와 실없는 개발수다를 좋아합니다. 
 
-
----
-
-### Activities
-- JECT Makers 2025.09 - now
-- Opensource contributors 9th 2025.08 - 2025.09  
-- YAPP 28th 2026.05 — now  
-- BDD (Book Driven Developer) 5th 2026.05 — now
-
 ---
 
 ### Open source contributions
