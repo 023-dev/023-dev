@@ -14,7 +14,7 @@
 ---
 
 ### Education
-- **B.S. in Computer Science, University in South Korea**
+- **B.S. in Computer Science, University**
 
 ---
 
