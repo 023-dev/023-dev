@@ -15,14 +15,3 @@
 
 ### Education
 - **B.S. in Computer Science, University**
-
----
-
-### Latest studies
-- [Harness Engineering Framework](https://github.com/023-dev/harness_framework_codex)
-- [Spring AI](https://github.com/023-dev/spring-ai-study)
-- [Kotlin with TDD](https://github.com/023-dev/kotlin-racingcar-8)
-- [Spring Elasticsearch](https://github.com/023-dev/spring-elasticsearh-study)
-- [Spring Kafka](https://github.com/023-dev/spring-kafka-study)
-- [AWS CDK for IaC](https://github.com/023-dev/iac-aws-cdk)
-
