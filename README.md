@@ -3,7 +3,7 @@
 소프트웨어 엔지니어 공희상입니다! <br>
 실없는 개발수다를 좋아합니다. 
 
----
+--- 
 ### Open source contributions
 - **[spring-projects/spring-security](https://github.com/spring-projects/spring-security)**
   + Fix compile warnings for spring-security-config [#18596](https://github.com/spring-projects/spring-security/pull/18596)
