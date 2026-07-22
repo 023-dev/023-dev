@@ -17,7 +17,7 @@
 ---
 
 ### Education
-- **B.S. in Computer Science, University**
+- **B.S. in Computer Science**
 
 ---
 
