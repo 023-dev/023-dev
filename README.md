@@ -26,6 +26,7 @@
 -  [Book Driven Developers](https://github.com/Book-Driven-Developers)
     - [HTTP Perfect Guide](https://github.com/Book-Driven-Developers/26-HTTP-Perfect-Guide)
     - [Operating System Concepts](https://github.com/Book-Driven-Developers/26-OperatingSystemConcepts)
+    - [Effective Java](https://github.com/effective-java-3e-study/effective-java)
 -  [YAPP](https://github.com/YAPP-Github)
     - 28th server developer
 -  [JECT](https://github.com/JECT-Study)
